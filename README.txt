@@ -5,3 +5,14 @@ https://docs.google.com/spreadsheets/d/1DOuyVrEqgj3Xm1xCRd4FJp2LPEQl5TZHPMwTGVfQ
 para correr el server en el puerto 4000:
     
     npm run dev
+
+tenes que instalar 
+mysql
+express
+nodemom
+morgan
+j;sldkfjg;lsdkasdkfj
+sdklfnas;
+asdnfkla
+naskldf
+asnd
