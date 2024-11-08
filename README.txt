@@ -11,8 +11,3 @@ mysql
 express
 nodemom
 morgan
-j;sldkfjg;lsdkasdkfj
-sdklfnas;
-asdnfkla
-naskldf
-asnd
